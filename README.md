@@ -1,1 +1,1 @@
-# new-gitreposirory
+# new-gitrepository
